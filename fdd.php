@@ -1,0 +1,1 @@
+, $model, $brand_id, $supplier_id, $price, $supplyPrice, $taxe_id
